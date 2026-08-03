@@ -1,8 +1,22 @@
 body {
-    font-family:Arial, Helvetica, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vb;
-    background: linear-gradient(135deg, #1a192e, #24192e)
+    background: linear-gradient(135deg, #24192e, #1a192e);
+    margin: 0;
+    overflow: hidden;
+    color: #fff
+
+    
+}
+
+.flashcard-container {
+    text-align: center;
+    background-color: #2b304d;
+    padding: 40px;
+    border-radius: 20px;
+
+
 }
